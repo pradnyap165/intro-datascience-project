@@ -15,5 +15,5 @@ This project analyzes investor behavior using survey data.
 - dataset.csv → Survey data
 
 ## Author
-Your Name
-SYBCA
+Pradnya Pawar
+SYBBA
