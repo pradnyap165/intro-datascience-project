@@ -1,0 +1,109 @@
+Timestamp,Q1] what is your Age?,Q2]  what is your Gender?,Q3]  What is your highest completed education level? ,4]  Which of the following best describes your current occupation? ,"5]  On average, how much do you invest in stocks per month? ",  6]  Which type of investment do you prefer the most?  ,  7]  Which sector do you prefer for your investments?  ,  8]  How frequently do you trade or invest in stocks?  ,  9]  What is your level of risk tolerance when it comes to investments?  ,  10]  What has the biggest influence on your investment decisions?  
+8/12/2025 1:13:36,19,Female,Undergraduate,Student,"₹1,000",Stocks,FMCG,Weekly,Medium,Analysts
+8/12/2025 1:20:44,19,Male,High School,Student,"₹1,000",Mutual Funds,IT,Rarely,High,Analysts
+8/12/2025 1:53:11,2,Other,High School,Retired,"₹20,000",Crypto,FMCG,Rarely,High,Friends/Family
+8/12/2025 6:44:51,19,Female,High School,Student,"₹5,000",Stocks,Pharma,Monthly,Medium,Analysts
+8/12/2025 11:31:29,18,Female,High School,Student,,Mutual Funds,Banking,Monthly,Medium,Friends/Family
+8/12/2025 12:32:44,42,Male,Undergraduate,Employed,"₹5,000",Crypto,FMCG,Rarely,High,Other
+8/12/2025 12:34:13,56,Male,Postgraduate,Student,"₹10,000",Bonds,Pharma,Daily,High,Analysts
+8/12/2025 12:35:47,20,Female,Undergraduate,Student,"₹1,000",Mutual Funds,FMCG,Monthly,Low,Friends/Family
+8/12/2025 12:36:38,59,Male,Doctorate,Employed,"₹20,000",Crypto,IT,Monthly,High,Analysts
+8/12/2025 12:37:35,19,Female,High School,Student,"₹1,000",Stocks,FMCG,Rarely,Low,Friends/Family
+8/12/2025 12:38:24,43,Male,Postgraduate,Self-Employed,"₹20,000",Mutual Funds,Automobile,Weekly,Medium,Other
+8/12/2025 12:39:03,63,Male,Undergraduate,Unemployed,"₹5,000",Mutual Funds,Pharma,Monthly,Medium,Friends/Family
+8/12/2025 12:39:42,76,Male,Doctorate,Retired,"₹50,000",Crypto,IT,Weekly,High,Other
+8/12/2025 12:40:37,69,Male,Postgraduate,Self-Employed,"₹10,000",Stocks,FMCG,Weekly,Medium,News
+8/12/2025 12:41:54,30,Male,Undergraduate,Unemployed,"₹10,000",Crypto,Banking,Daily,Medium,Social Media
+8/12/2025 12:43:00,33,Female,Postgraduate,Employed,"₹50,000",Bonds,IT,Monthly,Low,Analysts
+8/12/2025 12:44:50,57,Other,Postgraduate,Self-Employed,"₹5,000",Bonds,FMCG,Rarely,High,Social Media
+8/12/2025 12:45:37,42,Female,Undergraduate,Unemployed,"₹10,000",Mutual Funds,Banking,Rarely,Medium,News
+8/12/2025 12:46:23,47,Female,Postgraduate,Self-Employed,"₹20,000",Bonds,Banking,Monthly,Medium,News
+8/12/2025 12:46:55,26,Male,Undergraduate,Self-Employed,"₹1,000",Mutual Funds,Banking,Monthly,Low,Other
+8/12/2025 12:47:30,35,Male,Doctorate,Employed,"₹5,000",Mutual Funds,FMCG,Monthly,High,News
+8/12/2025 12:48:07,46,Female,Postgraduate,Retired,"₹1,000",ETFs,Automobile,Monthly,Low,Friends/Family
+8/12/2025 12:48:59,58,Other,Postgraduate,Retired,"₹10,000",Mutual Funds,Banking,Rarely,Medium,Analysts
+8/12/2025 12:50:36,27,Male,Undergraduate,Student,"₹1,000",Mutual Funds,Automobile,Weekly,Low,Friends/Family
+8/12/2025 12:51:23,44,Male,Undergraduate,Employed,"₹1,000",Bonds,Banking,Monthly,Low,Friends/Family
+8/12/2025 12:52:38,42,Female,Undergraduate,Self-Employed,"₹20,000",Crypto,IT,Weekly,High,Social Media
+8/12/2025 12:55:19,18,Female,High School,Student,"₹10,000",Stocks,IT,Monthly,High,Analysts
+8/12/2025 12:55:41,60,Female,Doctorate,Retired,"₹5,000",Bonds,IT,Daily,High,Social Media
+8/12/2025 12:58:32,26,Other,Undergraduate,Self-Employed,"₹5,000",Bonds,Banking,Daily,Medium,Other
+8/12/2025 13:06:05,21,Male,Undergraduate,Unemployed,"₹1,000",Crypto,FMCG,Monthly,Low,Friends/Family
+8/12/2025 13:06:43,24,Female,Undergraduate,Unemployed,"₹1,000",Stocks,IT,Rarely,Low,Friends/Family
+8/12/2025 13:08:50,45,Male,Doctorate,Employed,"₹50,000",Crypto,IT,Monthly,High,Analysts
+8/12/2025 13:09:45,43,Male,Postgraduate,Employed,"₹20,000",Mutual Funds,Pharma,Monthly,Medium,Analysts
+8/12/2025 13:10:14,19,Female,High School,Student,"₹1,000",Crypto,IT,Monthly,Low,Social Media
+8/12/2025 13:11:01,19,Female,High School,Student,,,,,,
+8/12/2025 13:38:01,20,Female,High School,Student,"₹5,000",Mutual Funds,Banking,Monthly,Medium,Friends/Family
+8/12/2025 15:12:06,18,Female,High School,Student,"₹5,000",Mutual Funds,Pharma,Monthly,Medium,Analysts
+8/12/2025 16:18:39,48,Female,Postgraduate,Employed,"₹5,000",Crypto,Automobile,,Low,News
+8/12/2025 16:20:30,54,Female,Undergraduate,Unemployed,"₹5,000",Mutual Funds,Banking,Daily,High,News
+8/12/2025 16:21:03,44,Male,Postgraduate,Employed,"₹10,000",Mutual Funds,IT,Weekly,High,Friends/Family
+8/12/2025 16:25:58,23,Male,Postgraduate,Employed,"₹1,000",Stocks,FMCG,Monthly,High,News
+8/12/2025 16:26:52,19,Male,Undergraduate,Student,"₹1,000",Stocks,FMCG,Weekly,High,Friends/Family
+8/12/2025 16:28:44,19,Female,Undergraduate,Student,₹0,Crypto,IT,Rarely,Low,Friends/Family
+8/12/2025 16:30:00,24,Male,High School,Student,₹0,Stocks,FMCG,Weekly,Medium,Social Media
+8/12/2025 16:30:36,38,Female,Postgraduate,Employed,"₹5,000",Crypto,Banking,Monthly,High,Friends/Family
+8/12/2025 16:34:35,37,Male,Postgraduate,Self-Employed,"₹5,000",Stocks,IT,Weekly,Low,News
+8/12/2025 16:35:12,45,Male,Undergraduate,Employed,"₹10,000",Mutual Funds,Pharma,Daily,Medium,Social Media
+8/12/2025 16:35:42,21,Other,Undergraduate,Student,"₹1,000",Mutual Funds,Pharma,Rarely,High,Social Media
+8/12/2025 16:36:14,20,Male,Undergraduate,Student,"₹5,000",Mutual Funds,Pharma,Rarely,High,Social Media
+8/12/2025 16:36:47,31,Male,Undergraduate,Employed,"₹10,000",Stocks,Banking,Rarely,Medium,News
+8/12/2025 16:37:18,38,Female,Undergraduate,Unemployed,"₹5,000",Stocks,IT,Monthly,Medium,Social Media
+8/12/2025 16:37:58,51,Male,Doctorate,Employed,"₹20,000",Stocks,Pharma,Weekly,High,News
+8/12/2025 16:38:35,29,Male,Undergraduate,Employed,"₹20,000",Stocks,Pharma,Weekly,High,News
+8/12/2025 16:39:09,23,Female,Undergraduate,Student,"₹1,000",Stocks,FMCG,Monthly,High,Social Media
+8/12/2025 16:39:38,20,Male,Undergraduate,Student,"₹1,000",Crypto,FMCG,Weekly,Medium,Friends/Family
+8/12/2025 16:40:04,23,Male,Undergraduate,Student,"₹1,000",Crypto,IT,Monthly,High,Social Media
+8/12/2025 16:40:34,73,Female,Doctorate,Retired,"₹20,000",Mutual Funds,Pharma,Monthly,Low,News
+8/12/2025 16:41:07,74,Male,Doctorate,Retired,"₹10,000",Mutual Funds,Banking,Monthly,Low,Friends/Family
+8/12/2025 16:42:33,18,Male,High School,Student,₹0,ETFs,IT,Weekly,High,Social Media
+8/12/2025 16:43:29,52,Male,Postgraduate,Employed,"₹1,000",Stocks,Banking,Monthly,Medium,Friends/Family
+8/12/2025 16:44:04,25,Female,High School,Unemployed,"₹5,000",Stocks,IT,Monthly,Low,News
+8/12/2025 16:44:38,26,Female,Undergraduate,Employed,"₹10,000",Stocks,IT,Monthly,Low,News
+8/12/2025 16:45:12,26,Other,Undergraduate,Self-Employed,"₹10,000",Stocks,Automobile,Monthly,High,Analysts
+8/12/2025 16:45:53,35,Female,Undergraduate,Self-Employed,"₹20,000",ETFs,IT,Daily,Medium,Analysts
+8/12/2025 16:46:40,43,Male,Undergraduate,Self-Employed,"₹10,000",ETFs,FMCG,Weekly,Medium,Other
+8/12/2025 16:47:10,56,Male,Undergraduate,Employed,"₹1,000",Stocks,Automobile,Monthly,Low,Social Media
+8/12/2025 16:47:40,29,Female,Undergraduate,Self-Employed,"₹5,000",Stocks,Automobile,Weekly,Medium,Friends/Family
+8/12/2025 16:48:19,19,Male,Undergraduate,Student,"₹5,000",Crypto,Pharma,Rarely,High,News
+8/12/2025 16:48:50,44,Male,Doctorate,Employed,₹0,Stocks,FMCG,Rarely,Medium,Analysts
+8/12/2025 16:49:21,20,Female,Undergraduate,Student,₹0,Mutual Funds,Automobile,Rarely,Low,News
+8/12/2025 16:49:54,22,Male,Undergraduate,Employed,"₹10,000",Crypto,IT,Monthly,Medium,Friends/Family
+8/12/2025 16:50:31,56,Male,Doctorate,Employed,₹0,Crypto,IT,Rarely,High,Friends/Family
+8/12/2025 16:51:40,42,Other,Undergraduate,Employed,"₹1,000",ETFs,IT,Daily,Medium,Social Media
+8/12/2025 16:52:09,37,Male,Undergraduate,Self-Employed,"₹10,000",Stocks,Banking,Monthly,Medium,News
+8/12/2025 16:52:34,48,Female,Postgraduate,Employed,"₹10,000",Stocks,Pharma,Weekly,Medium,News
+8/12/2025 16:52:59,47,Male,Undergraduate,Employed,"₹1,000",Stocks,Banking,Monthly,Medium,Social Media
+8/12/2025 16:53:32,21,Female,Undergraduate,Student,₹0,ETFs,IT,Monthly,High,News
+8/12/2025 16:54:02,29,Male,Undergraduate,Student,"₹1,000",ETFs,IT,Monthly,High,News
+8/12/2025 16:54:36,29,Male,Undergraduate,Unemployed,₹0,Stocks,IT,Monthly,High,News
+8/12/2025 16:55:04,58,Female,Undergraduate,Employed,"₹5,000",Stocks,Pharma,Daily,Medium,Analysts
+8/12/2025 16:55:30,21,Female,Undergraduate,Student,"₹1,000",Mutual Funds,Banking,Rarely,Medium,News
+8/12/2025 16:56:03,55,Female,Doctorate,Employed,"₹50,000",ETFs,Pharma,Monthly,High,Analysts
+8/12/2025 16:56:31,32,Male,Postgraduate,Employed,"₹1,000",Stocks,Pharma,Monthly,Medium,Friends/Family
+8/12/2025 16:57:01,26,Male,Postgraduate,Employed,"₹5,000",ETFs,IT,Weekly,Medium,News
+8/12/2025 16:57:37,21,Female,Undergraduate,Student,₹0,Stocks,IT,Rarely,High,Social Media
+8/12/2025 16:58:17,49,Female,Undergraduate,Self-Employed,"₹5,000",Stocks,FMCG,Monthly,Medium,Friends/Family
+8/12/2025 16:58:46,39,Male,Undergraduate,Self-Employed,"₹10,000",Stocks,Pharma,Monthly,Medium,Friends/Family
+8/12/2025 16:59:26,39,Male,Undergraduate,Self-Employed,"₹10,000",Stocks,Pharma,Monthly,Medium,Analysts
+8/12/2025 17:02:44,60,Female,Postgraduate,Retired,"₹20,000",Stocks,Banking,Rarely,Low,News
+8/12/2025 17:03:24,51,Female,Undergraduate,Employed,"₹5,000",Bonds,FMCG,Weekly,Low,News
+8/12/2025 17:03:45,44,Male,Undergraduate,Employed,"₹5,000",Bonds,FMCG,Weekly,Low,News
+8/12/2025 17:04:19,44,Male,Undergraduate,Employed,"₹20,000",Stocks,IT,Daily,High,Friends/Family
+8/12/2025 17:04:48,21,Female,Undergraduate,Student,₹0,,FMCG,Rarely,High,Social Media
+8/12/2025 17:05:39,24,Male,Undergraduate,Student,"₹1,000",Crypto,Banking,Rarely,Medium,Analysts
+8/12/2025 17:06:16,22,Female,Undergraduate,Student,₹0,Crypto,Automobile,Monthly,Medium,Other
+8/12/2025 17:06:56,47,Female,Undergraduate,Self-Employed,"₹50,000",Crypto,IT,Monthly,High,Analysts
+8/12/2025 17:07:37,51,Male,Postgraduate,Employed,"₹10,000",Mutual Funds,IT,Monthly,Medium,Friends/Family
+8/12/2025 17:08:05,59,Female,Undergraduate,Retired,"₹5,000",Stocks,Pharma,Monthly,Medium,News
+8/12/2025 17:08:35,29,Male,Postgraduate,Employed,"₹1,000",Stocks,Automobile,Monthly,Medium,Analysts
+8/12/2025 17:09:04,19,Female,Undergraduate,Student,₹0,Crypto,Automobile,Rarely,Low,Friends/Family
+8/12/2025 18:03:15,18,Male,High School,Student,₹0,Bonds,Banking,Rarely,Medium,Analysts
+8/12/2025 19:19:59,21,Female,High School,Student,₹0,Crypto,Banking,Rarely,Medium,Other
+8/12/2025 20:37:36,21,Male,Undergraduate,Student,₹0,Stocks,Pharma,Rarely,Low,Social Media
+8/12/2025 20:54:20,21,Male,Postgraduate,Self-Employed,"₹1,000",Mutual Funds,Banking,Monthly,Medium,Other
+8/14/2025 0:59:26,26,Male,Postgraduate,Employed,₹0,Stocks,IT,Rarely,Low,Other
+8/14/2025 4:04:44,25,Male,Undergraduate,Student,₹0,Mutual Funds,IT,Rarely,Medium,Social Media
+8/14/2025 10:33:45,25,Male,Undergraduate,Employed,"₹1,000",Mutual Funds,Automobile,Monthly,Medium,Friends/Family
+8/15/2025 21:27:59,24,Female,Postgraduate,Employed,₹0,Stocks,IT,Rarely,Low,Other
